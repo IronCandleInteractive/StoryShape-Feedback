@@ -1,0 +1,36 @@
+name: Feature request
+description: Describe a problem or workflow StoryShape could improve.
+title: "[Feature]: "
+labels: ["feature-request", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Focus on the writing or planning problem. Do not include private manuscripts or full project files.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      placeholder: Describe the part of your workflow that is difficult or repetitive.
+    validations:
+      required: true
+  - type: textarea
+    id: desired
+    attributes:
+      label: What would you like StoryShape to do?
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: How would this help your use case?
+      description: A small example with invented story details is helpful.
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Possible workflow improvements
+      description: Optional details about where this would fit in your writing process.
+    validations:
+      required: false

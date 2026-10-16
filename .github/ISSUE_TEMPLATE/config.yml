@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: StoryShape support
+    url: https://storyshape.app/support/
+    about: Read the FAQ or contact support@ironcandleinteractive.com.
+  - name: Private security report
+    url: mailto:support@ironcandleinteractive.com?subject=Private%20security%20report
+    about: Do not post security details in a public issue.

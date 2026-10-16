@@ -1,0 +1,28 @@
+name: General feedback
+description: Share usability feedback, suggestions, or a comment about StoryShape.
+title: "[Feedback]: "
+labels: ["feedback", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Keep your feedback focused on the product experience. Do not post private manuscripts, project files, personal information, or other sensitive content.
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What would you like us to know?
+      placeholder: Share a usability observation, suggestion, or comment.
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: StoryShape version (optional)
+    validations:
+      required: false
+  - type: input
+    id: operating-system
+    attributes:
+      label: Operating system (optional)
+    validations:
+      required: false

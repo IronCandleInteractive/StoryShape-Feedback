@@ -1,0 +1,51 @@
+name: Bug report
+description: Report a reproducible problem in StoryShape.
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe the problem without sharing a private manuscript. Please do not upload a full project, sensitive information, or personal data. A small synthetic example or a redacted screenshot is safer.
+  - type: input
+    id: app-version
+    attributes:
+      label: StoryShape version
+      description: Include the version and build number if shown.
+      placeholder: "0.1.21 (22)"
+    validations:
+      required: true
+  - type: input
+    id: operating-system
+    attributes:
+      label: Operating system and version
+      placeholder: "macOS 27.0"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the smallest set of steps that reproduces the issue. Use invented sample text.
+      placeholder: "1. Open a new sample project…"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Optional screenshots or extra context
+      description: Remove manuscript text, file paths, names, and other sensitive details before attaching.
+    validations:
+      required: false
