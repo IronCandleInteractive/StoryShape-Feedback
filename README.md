@@ -4,11 +4,11 @@ StoryShape is a writing and worldbuilding application for people building storie
 
 **Your story. Your world. Your own.**
 
-[Visit StoryShape.app](https://storyshape.app) · [Download StoryShape](https://storyshape.app/download/) · [Support & FAQ](https://storyshape.app/support/)
+[Visit StoryShape.app](https://storyshape.app) · [Download the latest Mac beta](https://github.com/IronCandleInteractive/StoryShape/releases/latest) · [Support & FAQ](https://storyshape.app/support/)
 
 ## Availability and pricing
 
-- **macOS:** Free. The current Apple-silicon beta is available from [StoryShape.app/download](https://storyshape.app/download/).
+- **macOS:** Free. The current Apple-silicon beta is available from the [latest public release](https://github.com/IronCandleInteractive/StoryShape/releases/latest).
 - **Windows:** Free, planned; not available yet.
 - **Linux:** Free, planned; not available yet.
 - **iPadOS:** In development, planned at **$4.99 one time**. It is not available for purchase yet.
