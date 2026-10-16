@@ -15,6 +15,14 @@ StoryShape is a writing and worldbuilding application for people building storie
 
 Desktop editions remain free, without subscriptions, advertisements, or paid feature unlocks. StoryShape does not require an account for ordinary writing. The application is independently developed and its future first-party source is proprietary. Earlier source versions published under Apache License 2.0 retain their original license grants.
 
+## Development model update
+
+StoryShape is moving to a privately maintained development model. The desktop application remains completely free, and our commitment to offline writing, user privacy, and ownership of your work is unchanged.
+
+Future application source code will be maintained privately by Iron Candle Interactive. Previously published versions released under Apache 2.0 retain their original licensing rights.
+
+We’re continuing to welcome bug reports, feature requests, and feedback from writers as StoryShape develops.
+
 Writers retain ownership of their manuscripts, notes, characters, research, worldbuilding, and other original content. StoryShape is designed for offline work and does not add advertising or tracking.
 
 ## Share feedback
